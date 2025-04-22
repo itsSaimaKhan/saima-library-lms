@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 import time
 import requests
-import plotly.express as px
+#import plotly.express as px
 import plotly.graph_objects as go
 
 # set page config
