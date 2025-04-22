@@ -6,7 +6,7 @@ import os
 import time
 #import random
 #simport plotly.express as px
-import plotly.graph_objects as go
+#import plotly.graph_objects as go
 #import streamlit_lottie import st_lottie  
 import requests
 
