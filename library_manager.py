@@ -32,12 +32,7 @@ st.markdown("""
         font-weight: 600;
         margin-top: 1rem;
     }
-    .success-message {
-        padding: 1rem;
-        background-color: #D1FAE5;
-        border-left: 5px solid #10B981;
-        border-radius: 0.375rem;
-    }
+    
     .warning-message {
         padding: 1rem;
         background-color: #FEF3C7;
