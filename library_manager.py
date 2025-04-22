@@ -6,7 +6,7 @@ from datetime import datetime
 import time
 import requests
 #import plotly.express as px
-import plotly.graph_objects as go
+#import plotly.graph_objects as go
 
 # set page config
 st.set_page_config(
